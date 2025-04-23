@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "Name": "Іван Іван",
+    "Birthday": "1999-04-23T00:00:00",
+    "Email": "Ivan19desiw@gmail.com",
+    "IsActive": true,
+    "Status": "Активний",
+    "Age": 26,
+    "Details": "Іван Іван (ID: 1) - Активний"
+  },
+  {
+    "Id": 2,
+    "Name": "Вiкторiя Вiкторiя",
+    "Birthday": "2004-08-22T00:00:00",
+    "Email": "Victoria2301sd@gmail.com",
+    "IsActive": true,
+    "Status": "Активний",
+    "Age": 21,
+    "Details": "Вiкторiя Вiкторiя (ID: 2) - Активний"
+  },
+  {
+    "Id": 3,
+    "Name": "Денис Денис",
+    "Birthday": "1982-10-10T00:00:00",
+    "Email": "Denis1982@gmail.com",
+    "IsActive": false,
+    "Status": "Неактивний",
+    "Age": 43,
+    "Details": "Денис Денис (ID: 3) - Неактивний"
+  },
+  {
+    "Id": 4,
+    "Name": "Олена Олена",
+    "Birthday": "1995-05-15T00:00:00",
+    "Email": "Olena1995@gmail.com",
+    "IsActive": true,
+    "Status": "Активний",
+    "Age": 30,
+    "Details": "Олена Олена (ID: 4) - Активний"
+  },
+  {
+    "Id": 5,
+    "Name": "Владислав Владислав",
+    "Birthday": "1988-02-24T00:00:00",
+    "Email": "Vlad1988@gmail.com",
+    "IsActive": true,
+    "Status": "Активний",
+    "Age": 37,
+    "Details": "Владислав Владислав (ID: 5) - Активний"
+  }
+]
